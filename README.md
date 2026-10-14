@@ -1,2 +1,1 @@
-welcome to git lab 
-hi hello diya
+this is remote file
